@@ -15,7 +15,8 @@ Easily create call to action for your WordPress site
 <h3>WEN Call To Action</h3>
 WEN Call To Action creates call to action for your WordPress site. This plugin gives you markup for Call To Action with simple styling. You can easily customize by adding custom class. Extension of CTA depends on your imagination.
 
-Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/)
+Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/)    
+
 If you like this plugin, please [rate and review](http://wordpress.org/support/view/plugin-reviews/wen-call-to-action). If you have any question, suggestion or issue, please [post here](http://wordpress.org/support/plugin/wen-call-to-action).
 
 
@@ -53,7 +54,8 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/wen
 == Screenshots ==
 
 1. CTA page
-2. Display CTA in front-end
+2. Display CTA in front-end (default style)
+3. Display CTA in front-end (Blue Sky theme)
 
 == Changelog ==
 
