@@ -90,7 +90,7 @@ class WEN_Call_To_Action_Public {
       'singular_name'      => _x( 'Call To Action', 'post type singular name', 'wen-call-to-action' ),
       'menu_name'          => _x( 'Call To Action', 'admin menu', 'wen-call-to-action' ),
       'name_admin_bar'     => _x( 'Call To Action', 'add new on admin bar', 'wen-call-to-action' ),
-      'add_new'            => _x( 'Add New', WEN_CALL_TO_ACTION_POST_TYPE_CTA, 'wen-call-to-action' ),
+      'add_new'            => _x( 'Add New', 'wen_cta', 'wen-call-to-action' ),
       'add_new_item'       => __( 'Add New Call To Action', 'wen-call-to-action' ),
       'new_item'           => __( 'New Call To Action', 'wen-call-to-action' ),
       'edit_item'          => __( 'Edit Call To Action', 'wen-call-to-action' ),
@@ -226,7 +226,6 @@ class WEN_Call_To_Action_Public {
       if ( 1 == $cta_button_open_new_window ) {
         $button_content .= ' target="_blank" ';
       }
-      $button_content .= ' title="' . esc_attr( $cta_button_text ) . '" ';
       $button_content .= '>';
       $button_content .= esc_html( $cta_button_text );
       $button_content .= '</a>';

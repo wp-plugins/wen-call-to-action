@@ -1,10 +1,10 @@
 === WEN Call To Action ===
 Contributors: wenthemes
-Donate link: http://wenthemes.com
+Donate link: http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/
 Tags: Call To Action, Calls To Action, CTA, CTA Button, shortcode, widget, call outs, call out, message box, conversion box, button, shortcode button
-Requires at least: 3.8
-Tested up to: 4.2
-Stable tag: 1.0.0
+Requires at least: 4.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Easily create call to action for your WordPress site
 <h3>WEN Call To Action</h3>
 WEN Call To Action creates call to action for your WordPress site. This plugin gives you markup for Call To Action with simple styling. You can easily customize by adding custom class. Extension of CTA depends on your imagination.
 
-Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/)    
+Plugin : [Homepage](http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/)
 
 If you like this plugin, please [rate and review](http://wordpress.org/support/view/plugin-reviews/wen-call-to-action). If you have any question, suggestion or issue, please [post here](http://wordpress.org/support/plugin/wen-call-to-action).
 
@@ -58,6 +58,9 @@ Nice, make a post on the [Support Forum](http://wordpress.org/support/plugin/wen
 3. Display CTA in front-end (Blue Sky theme)
 
 == Changelog ==
+
+= 1.1 =
+* Minor bug fixes
 
 = 1.0.0 =
 * Initial release

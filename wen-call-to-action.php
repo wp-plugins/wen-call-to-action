@@ -16,7 +16,7 @@
  * Plugin Name:       WEN Call To Action
  * Plugin URI:        http://wenthemes.com/item/wordpress-plugins/wen-call-to-action/
  * Description:       Easily create call to action for your WordPress site.
- * Version:           1.0.0
+ * Version:           1.1
  * Author:            WEN Themes
  * Author URI:        http://wenthemes.com
  * License:           GPL-2.0+
@@ -33,7 +33,7 @@ if ( ! defined( 'WPINC' ) ) {
 // Define
 define( 'WEN_CALL_TO_ACTION_NAME', 'WEN Call To Action' );
 define( 'WEN_CALL_TO_ACTION_SLUG', 'wen-call-to-action' );
-define( 'WEN_CALL_TO_ACTION_VERSION', '1.0.0' );
+define( 'WEN_CALL_TO_ACTION_VERSION', '1.1' );
 define( 'WEN_CALL_TO_ACTION_BASENAME', basename( dirname( __FILE__ ) ) );
 define( 'WEN_CALL_TO_ACTION_DIR', rtrim( plugin_dir_path( __FILE__ ), '/' ) );
 define( 'WEN_CALL_TO_ACTION_URL', rtrim( plugin_dir_url( __FILE__ ), '/' ) );
