@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WEN Call To Action\n"
+"POT-Creation-Date: 2015-05-26 12:25+0545\n"
+"PO-Revision-Date: 2015-05-26 12:25+0545\n"
+"Last-Translator: WEN Themes <info@wenthemes.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../wen-call-to-action\n"
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:92
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:183
+msgid "Usage"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:175
+msgid "Call To Action Info"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:190
+msgid "Call To Action Design"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:218
+msgid "Theme"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:222
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:227
+msgid "Default"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:223
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:228
+msgid "No Style"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:224
+msgid "Blue Sky"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:227
+msgid "Basic style will be applied."
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:228
+msgid ""
+"No style will be applied. Select this option if you want to add styling from "
+"your theme."
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:234
+msgid "Custom Class"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:238
+msgid "This class will be added in the wrapper div of the Call To Action."
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:263
+msgid "Button Text"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:267
+msgid "Enter button text"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:272
+msgid "Button URL"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:276
+msgid "Enter full URL"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:281
+msgid "Open in New Window"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:286
+msgid "Check to enable"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:373
+msgid "Shortcode"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:374
+msgid "Copy and paste this shortcode directly into any WordPress post or page."
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:377
+msgid "Template Include"
+msgstr ""
+
+#: ../../wen-call-to-action/admin/class-wen-call-to-action-admin.php:378
+msgid ""
+"Copy and paste this code into a template file to include the slider within "
+"your theme."
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:94
+msgid "Add New Call To Action"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:95
+msgid "New Call To Action"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:96
+msgid "Edit Call To Action"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:97
+msgid "View Call To Action"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:98
+msgid "All Call To Actions"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:99
+msgid "Search Call To Actions"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:100
+msgid "Parent Call To Actions:"
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:101
+msgid "No call to actions found."
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:102
+msgid "No call to actions found in Trash."
+msgstr ""
+
+#: ../../wen-call-to-action/public/class-wen-call-to-action-public.php:139
+msgid "CTA not found"
+msgstr ""
